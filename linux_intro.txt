@@ -2,6 +2,10 @@ Linux Tutorials
 ---------------------------------------------------------------
 
 Contents
-1. What is linux?
+1. What is Linux?
 2. Brief History
-3. 
+3. Advantages of using LINUX OS.
+
+
+What is Linux
+Linux is an open-source operating system. It is like Windows, Mac, Android, etc.Unix is also an operating system like Linux. It is an commercial OS. It consists of three parts: Kernal, Shell and Programs. Most of the Unix and Linux commands are similar in nature.
